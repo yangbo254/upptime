@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: CloudTeam
   introTitle: "**CloudTeam** Status Tracking Information"
-  introMessage: 这是一个由**Github Actions**驱动的状态支持页面,每隔大约5min左右进行一次检查活动，并对**CloudTeam**服务中断情况进行记录。
+  introMessage: 这是一个由 **Github Actions** 驱动的状态支持页面，每隔大约5min左右进行一次检查活动，并对 **CloudTeam** 服务中断情况进行记录。
   navbar:
     - title: Status
       href: /
