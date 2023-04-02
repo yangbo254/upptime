@@ -60,9 +60,9 @@
     "url": "https://cd.vm.cloudteam.top:12443",
     "icon": "https://icons.duckduckgo.com/ip3/cd.vm.cloudteam.top.ico",
     "slug": "tencent-cloud-cheng-du-node",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
@@ -72,6 +72,7 @@
     "timeMonth": 1287,
     "timeYear": 1287,
     "dailyMinutesDown": {
+      "2023-04-02": 0,
       "2023-03-17": 47
     }
   }
