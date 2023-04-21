@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 93,
-    "timeDay": 78,
-    "timeWeek": 103,
+    "time": 92,
+    "timeDay": 67,
+    "timeWeek": 90,
     "timeMonth": 97,
-    "timeYear": 93,
+    "timeYear": 92,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1179,
-    "timeDay": 1158,
-    "timeWeek": 1215,
-    "timeMonth": 1205,
-    "timeYear": 1179,
+    "time": 1182,
+    "timeDay": 1333,
+    "timeWeek": 1220,
+    "timeMonth": 1204,
+    "timeYear": 1182,
     "dailyMinutesDown": {
       "2023-03-18": 17
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 897,
-    "timeDay": 1059,
-    "timeWeek": 947,
-    "timeMonth": 897,
-    "timeYear": 897,
+    "time": 904,
+    "timeDay": 1102,
+    "timeWeek": 973,
+    "timeMonth": 904,
+    "timeYear": 904,
     "dailyMinutesDown": {}
   },
   {
@@ -61,16 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cd.vm.cloudteam.top.ico",
     "slug": "tencent-cloud-cheng-du-node",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 1310,
-    "timeDay": 1077,
-    "timeWeek": 1243,
-    "timeMonth": 1298,
-    "timeYear": 1310,
+    "uptimeYear": "99.91%",
+    "time": 1315,
+    "timeDay": 1497,
+    "timeWeek": 1287,
+    "timeMonth": 1310,
+    "timeYear": 1315,
     "dailyMinutesDown": {
       "2023-03-17": 47
     }
