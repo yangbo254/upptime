@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 144,
+    "timeDay": 139,
     "timeWeek": 103,
-    "timeMonth": 97,
+    "timeMonth": 96,
     "timeYear": 106,
-    "dailyMinutesDown": {
-      "2023-08-17": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AliYun-Singapore Node",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1260,
-    "timeDay": 1467,
-    "timeWeek": 1390,
-    "timeMonth": 1222,
+    "timeDay": 1274,
+    "timeWeek": 1383,
+    "timeMonth": 1223,
     "timeYear": 1260,
     "dailyMinutesDown": {
       "2023-03-18": 17
@@ -45,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hk.vm.cloudteam.top.ico",
     "slug": "ali-yun-hong-kong-node",
     "status": "down",
-    "uptime": "60.14%",
+    "uptime": "60.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.14%",
+    "uptimeYear": "60.06%",
     "time": 953,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 953,
     "dailyMinutesDown": {
-      "2023-08-17": 1223,
+      "2023-08-18": 61,
+      "2023-08-17": 1440,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
@@ -129,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1365,
-    "timeDay": 1427,
-    "timeWeek": 1649,
-    "timeMonth": 1407,
-    "timeYear": 1365,
+    "time": 1364,
+    "timeDay": 1256,
+    "timeWeek": 1635,
+    "timeMonth": 1403,
+    "timeYear": 1364,
     "dailyMinutesDown": {
       "2023-03-17": 47
     }
