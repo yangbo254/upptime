@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hk.vm.cloudteam.top.ico",
     "slug": "ali-yun-hong-kong-node",
     "status": "down",
-    "uptime": "52.36%",
+    "uptime": "52.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.36%",
+    "uptimeYear": "52.17%",
     "time": 953,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 953,
     "dailyMinutesDown": {
-      "2023-09-09": 61,
+      "2023-09-09": 973,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
@@ -144,9 +144,9 @@
     "url": "https://cd.vm.cloudteam.top:12443",
     "icon": "https://icons.duckduckgo.com/ip3/cd.vm.cloudteam.top.ico",
     "slug": "tencent-cloud-cheng-du-node",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -156,6 +156,7 @@
     "timeMonth": 1531,
     "timeYear": 1382,
     "dailyMinutesDown": {
+      "2023-09-09": 0,
       "2023-03-17": 47
     }
   }
