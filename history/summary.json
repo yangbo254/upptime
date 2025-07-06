@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 93,
-    "timeWeek": 93,
-    "timeMonth": 104,
+    "timeDay": 236,
+    "timeWeek": 129,
+    "timeMonth": 113,
     "timeYear": 107,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-06": 1
+    }
   },
   {
     "name": "AliYun-Singapore Node",
@@ -23,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sg.vm.cloudteam.top.ico",
     "slug": "ali-yun-singapore-node",
     "status": "down",
-    "uptime": "28.79%",
+    "uptime": "28.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-06": 119,
+      "2025-07-06": 464,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -418,7 +420,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-06": 119,
+      "2025-07-06": 464,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -791,7 +793,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cd.vm.cloudteam.top.ico",
     "slug": "tencent-cloud-cheng-du-node",
     "status": "down",
-    "uptime": "28.59%",
+    "uptime": "28.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -802,7 +804,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-06": 119,
+      "2025-07-06": 464,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
