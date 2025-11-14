@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 146,
-    "timeDay": 68,
-    "timeWeek": 88,
-    "timeMonth": 652,
+    "timeDay": 124,
+    "timeWeek": 92,
+    "timeMonth": 653,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2025-10-14": 21,
@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sg.vm.cloudteam.top.ico",
     "slug": "ali-yun-singapore-node",
     "status": "down",
-    "uptime": "24.94%",
+    "uptime": "24.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-13": 107,
+      "2025-11-14": 107,
+      "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
@@ -401,8 +402,7 @@
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
-      "2024-11-15": 1440,
-      "2024-11-14": 1440
+      "2024-11-15": 1440
     }
   },
   {
@@ -411,7 +411,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hk.vm.cloudteam.top.ico",
     "slug": "ali-yun-hong-kong-node",
     "status": "down",
-    "uptime": "9.29%",
+    "uptime": "9.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -422,7 +422,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-13": 107,
+      "2025-11-14": 107,
+      "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
@@ -785,8 +786,7 @@
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
-      "2024-11-15": 1440,
-      "2024-11-14": 1440
+      "2024-11-15": 1440
     }
   },
   {
@@ -795,7 +795,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cd.vm.cloudteam.top.ico",
     "slug": "tencent-cloud-cheng-du-node",
     "status": "down",
-    "uptime": "24.76%",
+    "uptime": "24.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -806,7 +806,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-13": 107,
+      "2025-11-14": 107,
+      "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
@@ -1169,8 +1170,7 @@
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
-      "2024-11-15": 1440,
-      "2024-11-14": 1440
+      "2024-11-15": 1440
     }
   }
 ]
