@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 172,
-    "timeDay": 106,
-    "timeWeek": 169,
-    "timeMonth": 133,
+    "timeDay": 70,
+    "timeWeek": 167,
+    "timeMonth": 126,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2026-01-18": 23,
@@ -29,7 +29,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sg.vm.cloudteam.top.ico",
     "slug": "ali-yun-singapore-node",
     "status": "down",
-    "uptime": "21.92%",
+    "uptime": "21.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -40,7 +40,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-27": 159,
+      "2026-03-28": 150,
+      "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
@@ -403,8 +404,7 @@
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
-      "2025-03-29": 1440,
-      "2025-03-28": 1440
+      "2025-03-29": 1440
     }
   },
   {
@@ -413,7 +413,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hk.vm.cloudteam.top.ico",
     "slug": "ali-yun-hong-kong-node",
     "status": "down",
-    "uptime": "8.16%",
+    "uptime": "8.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -424,7 +424,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-27": 159,
+      "2026-03-28": 150,
+      "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
@@ -787,8 +788,7 @@
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
-      "2025-03-29": 1440,
-      "2025-03-28": 1440
+      "2025-03-29": 1440
     }
   },
   {
@@ -797,7 +797,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cd.vm.cloudteam.top.ico",
     "slug": "tencent-cloud-cheng-du-node",
     "status": "down",
-    "uptime": "21.76%",
+    "uptime": "21.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -808,7 +808,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-27": 160,
+      "2026-03-28": 150,
+      "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
@@ -1171,8 +1172,7 @@
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
-      "2025-03-29": 1440,
-      "2025-03-28": 1440
+      "2025-03-29": 1440
     }
   }
 ]
