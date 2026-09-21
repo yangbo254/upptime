@@ -11,12 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 163,
-    "timeDay": 54,
-    "timeWeek": 86,
+    "timeDay": 85,
+    "timeWeek": 81,
     "timeMonth": 83,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2025-09-21": 26,
       "2025-10-14": 21,
       "2025-12-24": 20,
       "2026-01-18": 23,
@@ -29,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sg.vm.cloudteam.top.ico",
     "slug": "ali-yun-singapore-node",
     "status": "down",
-    "uptime": "18.89%",
+    "uptime": "18.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -40,7 +39,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-20": 240,
+      "2026-09-21": 238,
+      "2026-09-20": 1440,
       "2026-09-19": 1440,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
@@ -403,8 +403,7 @@
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
-      "2025-09-22": 1440,
-      "2025-09-21": 1440
+      "2025-09-22": 1440
     }
   },
   {
@@ -413,7 +412,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hk.vm.cloudteam.top.ico",
     "slug": "ali-yun-hong-kong-node",
     "status": "down",
-    "uptime": "7.03%",
+    "uptime": "7.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -424,7 +423,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-20": 240,
+      "2026-09-21": 238,
+      "2026-09-20": 1440,
       "2026-09-19": 1440,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
@@ -787,8 +787,7 @@
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
-      "2025-09-22": 1440,
-      "2025-09-21": 1440
+      "2025-09-22": 1440
     }
   },
   {
@@ -797,7 +796,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cd.vm.cloudteam.top.ico",
     "slug": "tencent-cloud-cheng-du-node",
     "status": "down",
-    "uptime": "18.76%",
+    "uptime": "18.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -808,7 +807,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-20": 240,
+      "2026-09-21": 239,
+      "2026-09-20": 1440,
       "2026-09-19": 1440,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
@@ -1171,8 +1171,7 @@
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
-      "2025-09-22": 1440,
-      "2025-09-21": 1440
+      "2025-09-22": 1440
     }
   }
 ]
